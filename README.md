@@ -1,7 +1,5 @@
 # DataDen
 
-# DataDen
-
 ![Screenshot (42)](https://user-images.githubusercontent.com/68649921/170031097-3c750c43-6f8a-4b60-8c29-677490cb074f.png)
 
 ## About the app:
