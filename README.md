@@ -29,7 +29,7 @@ This web application has been developed as a submission for the month long mento
 3. Open your terminal/command prompt from your project directory and run the file app.py by executing the command **streamlit run app.py**
 
 ## Web application link:
-Link to the deployed website: https://share.streamlit.io/smriti04501/dataden-26th-may/main/app.py
+Link to the deployed website: shorturl.at/duGX0
 
 
 ## App architecture:
