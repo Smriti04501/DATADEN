@@ -22,17 +22,23 @@ This web application has been developed as a submission for the month long mento
 - **Let's C about CARBON**- Check out the amount of CO2 emitted by a car by entering it's engine size.
 - Responsive, user-friendly and easy on the eye interface.
 
+## Website link:
+
+Link to the deployed website: https://bit.ly/3MRc8ja
+
 ## How to run this app locally?
 
 1. Clone this repository to your local machine.
 2. Install all the libraries mentioned in the requirements.txt file with the command **pip install -r requirements.txt**
 3. Open your terminal/command prompt from your project directory and run the file app.py by executing the command **streamlit run app.py**
 
-## Web application link:
-Link to the deployed website: shorturl.at/duGX0
-
-
 ## App architecture:
 
 ![Add a little bit of body text](https://user-images.githubusercontent.com/68649921/170360497-96d150a6-dec7-4620-a290-bf1c2731d780.png)
 
+## What's next for the app?
+
+- Accept multiple file types other than csv (for eg: excel)
+- Sharing the live visualization dashboards after the analysis
+- User Interface and User Experience upgradation
+- Introduction of more variety of plot types for analysis
