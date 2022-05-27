@@ -36,20 +36,38 @@ Link to the deployed website: https://bit.ly/3MRc8ja
 
 ![Add a little bit of body text](https://user-images.githubusercontent.com/68649921/170649353-b9388cc6-cb30-44c1-bd58-8793ceea1a16.png)
 
-## Project Approach:
+
+## Project Approach & Overview:
 
 **Week 1 (4th-8th May):-** Explored the problem statement and decided on the tech stack to be used.
 
-**Week 2 (9th-14th May):** Worked on analyzing the dataset and created the basic environment to display plots, statistical insights and the 'Report' feature for the application.
+**Week 2 (9th-14th May):** Worked on analyzing the dataset and created the basic environment to display univariate and multivariate plots, statistical insights and the 'Report' feature (that displays the complete univariate data analysis at once) for the application.
 
-**Week 3 (15th-21st May):** Worked on the UI/UX of the application and added some additional static and functional features such as the Notetaker.
+**Week 3 (15th-21st May):** Worked on the UI/UX of the application, made the application more responsive and added some additional static and functional features such as the Notetaker.
 
 **Week 4 (22nd-27th May):** Worked on the *X factor feature (CO2 emissions in cars)* and improving the overall website. Deployed the website and created the video demonstration.
 
+<br> 
+<br> 
+
+Analyze (Univariate/Multivariate)             |  NoteTaker
+:-------------------------:|:-------------------------:
+![Screenshot (50)](https://user-images.githubusercontent.com/68649921/170663225-81195813-d509-4554-b2b4-7ac228513cee.png) |  ![Screenshot (51)](https://user-images.githubusercontent.com/68649921/170664284-5f8cdca2-bb0a-4307-91f6-6ceada72da09.png)
+
+ Report            |  Check CO2 emissions
+:-------------------------:|:-------------------------:
+![Screenshot (45)](https://user-images.githubusercontent.com/68649921/170662104-456363be-8393-49f0-8776-e19fa5c20b58.png) |  ![Screenshot (46)](https://user-images.githubusercontent.com/68649921/170662164-08e09bc5-3b07-4d10-a095-c9f136b8531b.png)
+
+## Note:
+
+The CO2 emission predictor in this app has been developed on data extracted from different sources and *some data may be hypotherical*. **The purpose here is to demonstrate the working of the model.** The same model when trained on real life data (actual data) will yield results compatible with real life scenarios. To train the model on real data (the new dataset must contain these 2 columns- Engine_size, CO2_emission):
+- Open the python file 'machine_learning.py' and copy the code on the local system.
+- Read the new data by pasting the file path of the new dataset in pd.read_csv()
 
 ## What's next for the app?
 
-- Accept multiple file types other than csv (for eg: excel)
-- Sharing the live visualization dashboards after the analysis
-- User Interface and User Experience upgradation
-- Introduction of more variety of plot types for analysis
+- The application should accept multiple file types other than csv (for eg: excel)
+- Share feature for sharing the live visualization dashboards after the analysis with colleagues.
+- Introduction of more variety of plot types for data analysis.
+- Create a ML model that accepts car specifications such as the engine type, fuel type, mileage, body type and seating capacity to yield the most suitable car models.
+- User Interface and User Experience improvements.
