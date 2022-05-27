@@ -34,7 +34,18 @@ Link to the deployed website: https://bit.ly/3MRc8ja
 
 ## App architecture:
 
-![Add a little bit of body text](https://user-images.githubusercontent.com/68649921/170360497-96d150a6-dec7-4620-a290-bf1c2731d780.png)
+![Add a little bit of body text](https://user-images.githubusercontent.com/68649921/170649353-b9388cc6-cb30-44c1-bd58-8793ceea1a16.png)
+
+## Project Approach:
+
+**Week 1 (4th-8th May):-** Explored the problem statement and decided on the tech stack to be used.
+
+**Week 2 (9th-14th May):** Worked on analyzing the dataset and created the basic environment to display plots, statistical insights and the 'Report' feature for the application.
+
+**Week 3 (15th-21st May):** Worked on the UI/UX of the application and added some additional static and functional features such as the Notetaker.
+
+**Week 4 (22nd-27th May):** Worked on the *X factor feature (CO2 emissions in cars)* and improving the overall website. Deployed the website and created the video demonstration.
+
 
 ## What's next for the app?
 
