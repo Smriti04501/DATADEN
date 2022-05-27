@@ -63,6 +63,7 @@ Analyze (Univariate/Multivariate)             |  NoteTaker
 The CO2 emission predictor in this app has been developed on data extracted from different sources and *some data may be hypotherical*. **The purpose here is to demonstrate the working of the model.** The same model when trained on real life data (actual data) will yield results compatible with real life scenarios. To train the model on real data (the new dataset must contain these 2 columns- Engine_size, CO2_emission):
 - Open the python file 'machine_learning.py' and copy the code on the local system.
 - Read the new data by pasting the file path of the new dataset in pd.read_csv()
+- Run the file (the model will get trained on the new dataset)
 
 ## What's next for the app?
 
