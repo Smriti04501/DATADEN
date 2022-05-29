@@ -22,7 +22,7 @@ This web application has been developed as a submission for the month long mento
 - **Let's C about CARBON**- Check out the amount of CO2 emitted by a car by entering it's engine size.
 - Responsive, user-friendly and easy on the eye interface.
 
-## Website link:
+## Deployed website link:
 
 Link to the deployed website: https://bit.ly/3MRc8ja
 
@@ -32,10 +32,11 @@ Link to the deployed website: https://bit.ly/3MRc8ja
 2. Install all the libraries mentioned in the requirements.txt file with the command **pip install -r requirements.txt**
 3. Open your terminal/command prompt from your project directory and run the file app.py by executing the command **streamlit run app.py**
 
-## App architecture:
+## App architecture and flow:
 
-![Add a little bit of body text](https://user-images.githubusercontent.com/68649921/170649353-b9388cc6-cb30-44c1-bd58-8793ceea1a16.png)
-
+ Architecture            |  App flow
+:-------------------------:|:-------------------------:
+![Add a little bit of body text](https://user-images.githubusercontent.com/68649921/170649353-b9388cc6-cb30-44c1-bd58-8793ceea1a16.png) | ![Minimalist A4 Resume (1)](https://user-images.githubusercontent.com/68649921/170854949-bb7e9dcf-df74-4fcc-b762-68768d82a3c0.png)
 
 ## Project Approach & Overview:
 
