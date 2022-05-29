@@ -15,11 +15,11 @@ This web application has been developed as a submission for the month long mento
 
 - **Easy importation and exploration** of massive data (upto 200 MB csv files).
 - **Displays interactive plots/graphs**, both univariate and multivariate for different features.
-- **Pan, zoom in or out, hover over the plots** to analyze them closely.
 - **Report feature**- Generates the complete univariate data analysis report of data at once.
-- **Save/Download** interactive plots and/or the complete data analysis report for viewing offline.
 - **NOTEMAKER** - Mark observations or notedown anything else during app usage and download it.
 - **Let's C about CARBON**- Check out the amount of CO2 emitted by a car by entering it's engine size.
+- **Pan, zoom in or out, hover over the plots** to analyze them closely.
+- **Save/Download** interactive plots and/or the complete data analysis report for viewing offline.
 - Responsive, user-friendly and easy on the eye interface.
 
 ## Deployed website link:
