@@ -7,7 +7,7 @@
 *DataDen* is a holistic one-stop solution for automotive businesses to analyze customer & company data through intuitive statistical & graphical reports. This user-friendly application is designed for better comprehension of data which can further be used to:
 - Improvise the business models
 - Enhance customer experience 
-- Take other major decisions to promote company growth.
+- Take other major decisions to promote company growth
 
 This web application has been developed as a submission for the month long mentorship program, **Microsoft Engage'22**.
 
