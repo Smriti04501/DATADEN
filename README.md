@@ -2,6 +2,15 @@
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/68649921/170031097-3c750c43-6f8a-4b60-8c29-677490cb074f.png)
 
+## Deployed website link:
+
+Link to the deployed website: https://share.streamlit.io/smriti04501/dataden/main/app.py
+
+**(IMPORTANT NOTE: This is the new link for the depoyed website and the previous link (link given in the form) is not working due to authentication issues.)**
+
+**PLEASE CLICK ON THE LINK ABOVE TO CHECKOUT THE WEBSITE**
+
+
 ## About the app:
 
 *DataDen* is a holistic one-stop solution for automotive businesses to analyze customer & company data through intuitive statistical & graphical reports. This user-friendly application is designed for better comprehension of data which can further be used to:
@@ -10,14 +19,6 @@
 - Take other major decisions to promote company growth
 
 This web application has been developed as a submission for the month long mentorship program, **Microsoft Engage'22**.
-
-## Deployed website link:
-
-Link to the deployed website: https://share.streamlit.io/smriti04501/dataden/main/app.py
-
-**(IMPORTANT NOTE: This is the new link for the depoyed website and the previous link (link given in the form) is not working due to authentication issues.)**
-
-**PLEASE CLICK ON THIS TO CHECKOUT THE WEBSITE**
 
 ## Features of the app:
 
