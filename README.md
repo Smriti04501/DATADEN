@@ -6,7 +6,7 @@
 
 Link to the deployed website: https://share.streamlit.io/smriti04501/dataden/main/app.py
 
-**(IMPORTANT NOTE: This is the new link for the depoyed website and the previous link (link given in the form) is not working due to authentication issues.)**
+**(IMPORTANT NOTE: This is the new link for the deployed website and the previous link (link given in the form) is not working due to authentication issues.)**
 
 **PLEASE CLICK ON THE LINK ABOVE TO CHECKOUT THE WEBSITE**
 
