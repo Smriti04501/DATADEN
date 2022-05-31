@@ -14,7 +14,10 @@ This web application has been developed as a submission for the month long mento
 ## Deployed website link:
 
 Link to the deployed website: https://share.streamlit.io/smriti04501/dataden/main/app.py
-**(Note that this is the new link and the previous link (link given in the form) is not working due to authentication issues.)**
+
+**(IMPORTANT NOTE: This is the new link for the depoyed website and the previous link (link given in the form) is not working due to authentication issues.)**
+
+**PLEASE CLICK ON THIS TO CHECKOUT THE WEBSITE**
 
 ## Features of the app:
 
