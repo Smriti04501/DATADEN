@@ -11,6 +11,11 @@
 
 This web application has been developed as a submission for the month long mentorship program, **Microsoft Engage'22**.
 
+## Deployed website link:
+
+Link to the deployed website: https://share.streamlit.io/smriti04501/dataden/main/app.py
+**(Note that this is the new link and the previous link (link given in the form) is not working due to authentication issues.)**
+
 ## Features of the app:
 
 - **Easy importation and exploration** of massive data (upto 200 MB csv files).
@@ -22,9 +27,6 @@ This web application has been developed as a submission for the month long mento
 - **Save/Download** interactive plots and/or the complete data analysis report for viewing offline.
 - Responsive, user-friendly and easy on the eye interface.
 
-## Deployed website link:
-
-Link to the deployed website: https://bit.ly/3MRc8ja
 
 ## How to run this app locally?
 
