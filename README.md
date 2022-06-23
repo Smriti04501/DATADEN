@@ -38,8 +38,6 @@ This web application has been developed as a submission for the month long mento
 2. Install all the libraries mentioned in the requirements.txt file with the command **pip install -r requirements.txt**
 3. Open your terminal/command prompt from your project directory and run the file app.py by executing the command **streamlit run app.py**
 
-## Video Demo:
-https://youtu.be/QN9Z8-A0l7k
 
 ## App architecture and flow:
 
